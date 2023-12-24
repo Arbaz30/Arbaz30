@@ -5,6 +5,9 @@ I'm a passionate data scientist and data analyst with a knack for turning raw da
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaborations or discussions. Let's unlock the potential of data together! 📊💡
 
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=Arbaz30&label=Profile%20views&color=630627&style=for-the-badge" alt="Arbaz30" /> </p>
+
 ## My Github Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arbaz30&theme=tokyonight" alt="mystreak"/>
